@@ -1,0 +1,11 @@
+*{
+    font-family: Merriweather;
+    /* border: 2px solid red; */
+}
+#banner-section{
+    background-image: url("../images/Banner\ Image.png");
+    border: 2px solid red;
+    height: 600px;
+    width: 1350px;
+    background-repeat: no-repeat;
+}
