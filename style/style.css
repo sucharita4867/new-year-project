@@ -1,11 +1,25 @@
 *{
     font-family: Merriweather;
-    /* border: 2px solid red; */
+    margin: 0px;
+    padding: 0px;
 }
-#banner-section{
-    background-image: url("../images/Banner\ Image.png");
-    border: 2px solid red;
-    height: 600px;
-    width: 1350px;
+/* #banner-section{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+border: 2px solid red;
+}
+.bannerImage{
+    background-image: url(/images/Banner\ Image.png);
+    width: 100vw ;
+    height: 70vh;
     background-repeat: no-repeat;
+    background-size: auto;
+    margin: auto;
+} */
+.happy{
+    color: white;
+}
+.new{
+    color: white;
 }
